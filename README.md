@@ -2,10 +2,10 @@
 
 Vecta Corporation provides **scalable business solutions** to help companies achieve success through revenue increase, cost management, and user satisfaction
 
-### Our Solutions
-### vProspect2.0
-### vConvert2.0
-### vRetain1.0
+ ### _Our Solutions_
+ **_vProspect2.0_**
+ **_vConvert2.0_**
+ **_vRetain1.0_**
 
 >### Contact Vecta Corporation
 >_Vecta Corporation_   
@@ -21,4 +21,4 @@ Vecta Corporation provides **scalable business solutions** to help companies ach
 * _Ferris_, Founder and CEO  
 
 ### Created a html page for Vecta Corp using HTML commands. Named this page as index.html.
-### Created a github repository and pushed this index.html page on github. Also updated the readme file.
+### Created a github repository and pushed this index.html page on github. Also updated the readme file using the markdown concepts.
